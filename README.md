@@ -1,1 +1,5 @@
-# cp316
+- 👋 Hi I'm Jedsadaporn Puttakosai
+- 👀 I'm interested in Android Development and more
+- 🎈 I'm currently learning Kotlin ans Surfing
+- 💻 I'm looking to collaborate on Metaverse
+- 📬 How to reach me -> Email: jedsadaporn.toey@g.swu.ac.th
